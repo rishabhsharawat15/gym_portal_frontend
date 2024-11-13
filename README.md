@@ -60,3 +60,4 @@ The GYM Management System has potential for future enhancements, including:
 - Inclusion of nutrition advice and personalized training programs for members.
 
 ## Links
+backend repo : https://github.com/rishabhsharawat15/gym_backend
