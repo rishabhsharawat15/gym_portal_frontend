@@ -7,6 +7,8 @@
 
 ## Project Overview
 The GYM Management System is an online application designed to streamline gym management tasks and improve communication between gym owners, trainers, and members. The system addresses the challenges faced in traditional gyms, such as paper-based payment receipts and manual distribution of information. By digitizing gym-related processes, it provides a convenient and efficient platform for both gym owners and members.
+
+UI:
 ![image](https://github.com/user-attachments/assets/f3d52a94-1b7f-4e45-b231-d8f5a4407944)
 
 
